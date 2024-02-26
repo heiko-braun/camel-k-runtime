@@ -41,7 +41,7 @@
         <camel-version>3.9.0</camel-version>
 
         <!-- quarkus -->
-        <camel-quarkus-version>1.8.1</camel-quarkus-version>
+        <camel-quarkus-version>3.8.0</camel-quarkus-version>
         <graalvm-version>21.0.0</graalvm-version>
         <quarkus-version>1.13.0.Final</quarkus-version>
 
