@@ -41,7 +41,7 @@
         <camel-version>3.9.0</camel-version>
 
         <!-- quarkus -->
-        <camel-quarkus-version>1.8.1</camel-quarkus-version>
+        <camel-quarkus-version>2.6.0</camel-quarkus-version>
         <graalvm-version>21.0.0</graalvm-version>
         <quarkus-version>1.13.0.Final</quarkus-version>
 
@@ -84,7 +84,7 @@
         <maven-plugin-plugin-version>3.6.1</maven-plugin-plugin-version>
         <maven-version>3.6.3</maven-version>
         <maven-plugin-tools-version>3.6.1</maven-plugin-tools-version>
-        <maven-shaded-version>3.2.0</maven-shaded-version>
+        <maven-shaded-version>3.3.0</maven-shaded-version>
     </properties>
 
      <developers>
